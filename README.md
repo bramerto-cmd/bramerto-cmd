@@ -1,3 +1,5 @@
 ### Добро пожаловать в мой GitHub!
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
+## Моя статистика по использованию языков:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bramerto-cmd)](https://github.com/anuraghazra/github-readme-stats)
