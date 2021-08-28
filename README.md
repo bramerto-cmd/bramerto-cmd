@@ -2,8 +2,8 @@
 
 ## Общая статистика
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=bramerto-cmd&show_icons=true&theme=maroongold)
+![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=svelout&show_icons=true&theme=maroongold)
 
 ## Моя статистика по использованию языков
 
-[![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=bramerto-cmd)](https://github.com/anuraghazra/github-readme-stats)
+[![Популярные языки](https://github-readme-stats.vercel.app/api/top-langs/?username=svelout)](https://github.com/anuraghazra/github-readme-stats)
